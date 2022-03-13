@@ -1,4 +1,6 @@
 
+default_target: all
+
 GCC ?= arm-linux-gnueabi-gcc
 
 all:
